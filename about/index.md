@@ -16,14 +16,14 @@ date:   2014-08-03 19:55:16
 
 Describe standards.
 
-[__Tools__]({{ site.baseurl }}/extensions/add.html)
+[__Tools__]({{ site.baseurl }}/tools/add.html)
 
 Describe tools.
 
-[__Community Initiative__]({{ site.baseurl }}/tools/add.html)
+[__Community Initiative__]({{ site.baseurl }}/extensions/add.html)
 
 Describe community intiatives.
 
-[__Contributions__]({{ site.baseurl }}/tools/add.html)
+[__Contributions__]({{ site.baseurl }}/contribute/add.html)
 
 Describe community intiatives.
