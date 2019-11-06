@@ -12,14 +12,18 @@ date:   2014-08-03 19:55:16
 
 ## Getting Started 
 
-[__Viewing a Standard__]({{ site.baseurl }}/standards/add.html)
+[__Standard__]({{ site.baseurl }}/standards/add.html)
 
 Describe standards.
 
-[__Viewing a Tool__]({{ site.baseurl }}/extensions/add.html)
+[__Tools__]({{ site.baseurl }}/extensions/add.html)
 
 Describe tools.
 
-[__Viewing a Community Initiative__]({{ site.baseurl }}/tools/add.html)
+[__Community Initiative__]({{ site.baseurl }}/tools/add.html)
+
+Describe community intiatives.
+
+[__Contributions__]({{ site.baseurl }}/tools/add.html)
 
 Describe community intiatives.
