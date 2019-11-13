@@ -26,4 +26,4 @@ Describe community intiatives.
 
 [__Contributions__]({{ site.baseurl }}/contribute/add.html)
 
-Describe community intiatives.
+Contribute to the Directory.
