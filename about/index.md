@@ -26,4 +26,6 @@ Describe community intiatives.
 
 [__Contributions__]({{ site.baseurl }}/contribute/add.html)
 
+[__Contributions__](https://docs.google.com/forms/d/e/1FAIpQLScWOf_q5n_mwTN19ovMy4L9MOsmR2fSMBVSfofO8HEIDxzTXQ/viewform?usp=sf_link)
+
 Describe community intiatives.
