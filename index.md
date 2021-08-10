@@ -1,5 +1,5 @@
 ---
 layout: default
-title:  "Rights and Licenses Directory"
+title:  "Rights and Licenses Directory Version 2"
 ---
 
