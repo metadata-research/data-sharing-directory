@@ -4,3 +4,4 @@ markdown: kramdown
 highlighter: rouge
 baseurl: /data-sharing-directory
 description: Drexel University | MRC
+collections_dir: entry_collections

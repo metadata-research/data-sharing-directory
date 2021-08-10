@@ -2,7 +2,7 @@
 slug: index
 layout: about
 type: index
-title:  "Getting Started"
+title:  "Rights and Licenses Directory"
 date:   2014-08-03 19:55:16
 ---
 
