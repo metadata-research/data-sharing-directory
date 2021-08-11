@@ -5,6 +5,9 @@ type: index
 ---
 {% assign standards = site.pages | where:'type','standard' | sort:"name" %}
 
+Standards
+=========
+
 {% for standard in standards %}
 {{ standard.title }}
 --------------------
@@ -18,7 +21,7 @@ Founded by
 : {{ standard.founded_by }}
 
 Current URL
-: {{ standard.current_url }}
+: <{{ standard.current_url }}>
 
 Goals
 : {{ standard.goals }}
@@ -27,6 +30,7 @@ Status
 : {{ standard.status}}
  
 {% endfor %}
+
 
 Additional Standards with a Rights Entity
 -----------------------------------------

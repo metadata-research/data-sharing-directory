@@ -1,0 +1,12 @@
+---
+title: ShareDB: A Licensing Model and Ecosystem for Data Sharing
+slug: share-db
+sub_categories:
+  - Licensing
+started: 2016
+founded_by: Drexel University’s Metadata Research Center, MIT, Brown University
+current_url: https://cci.drexel.edu/mrc/research/a-licensing-model-and-ecosystem-for-data-sharing/
+goals: Facilitate the process of data sharing among industry, academia, and government (Metadata Research Center, 2018). The project has three interconnected components: a licensing framework/generator; a data sharing platform,called ShareDB, to enforce some of the privacy and compliance aspects of the licenses; and robust metadata for the datasets as well as the developed licenses, to communicate data handling and rights specifications in a machine-readable way.
+status:
+type: tool
+---
