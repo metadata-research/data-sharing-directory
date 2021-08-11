@@ -1,4 +1,4 @@
- ---
+---
 title: Standards
 slug: index
 type: index
@@ -10,18 +10,18 @@ type: index
 --------------------
 Sub-categories
 {% for subcategory in standard.sub_categories %}
-:{{ subcategory }}
+: {{ subcategory }}
 {% endfor %}
 Started
-:{{ standard.started }}
+: {{ standard.started }}
 Founded by
-:{{ standard.founded_by }}
+: {{ standard.founded_by }}
 Current URL
-:{{ standard.current_url }}
+: {{ standard.current_url }}
 Goals
-:{{ standard.goals }}
+: {{ standard.goals }}
 Status
-:{{ standard.status}}
+: {{ standard.status}}
 =======
  
 {% endfor %}
