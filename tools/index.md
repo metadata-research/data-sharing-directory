@@ -6,7 +6,7 @@ type: index
 {% assign tools = site.pages | where:'type','tool' | sort:"name" %}
 
 Tools
-=========
+=====
 
 {% for tool in tools %}
 {{ tool.title }}
@@ -30,5 +30,7 @@ Goals
 Status
 : {{ tool.status}}
 {% endif %}
+
+* * *
 
 {% endfor %}

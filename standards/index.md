@@ -31,6 +31,8 @@ Status
 : {{ standard.status}}
 {% endif %}
 
+* * *
+
 {% endfor %}
 
 
