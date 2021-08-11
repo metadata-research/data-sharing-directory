@@ -30,3 +30,11 @@ Status
 
 Additional Standards with a Rights Entity
 -----------------------------------------
+* Categories for the Description of Works of Art (CDWA) Lite
+* CopyrightMD, Extension for use with the Metadata Encoding and Transmission Standard (METS)
+* Dublin Core
+* Learning Object Metadata (LOM)
+* Metadata Object Description Schema (MODS)
+* Preservation Metadata: Implementation Strategies (Premis)
+* Public Broadcasting Metadata Dictionary (PBCore)
+* Visual Resources Association (VRA) Core
