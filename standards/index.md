@@ -6,6 +6,7 @@ type: index
 {% assign standards = site.pages | where:'type','standard' | sort:"name" %}
 
 {% for standard in standards %}
+<<<<<<< HEAD
 {{ standard.title }}
 --------------------
 Sub-categories
@@ -22,4 +23,6 @@ Goals
 :{{ standard.goals }}
 Status
 :{{ standard.status}}
+=======
+ 
 {% endfor %}
