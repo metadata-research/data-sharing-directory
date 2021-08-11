@@ -5,6 +5,9 @@ type: index
 ---
 {% assign standards = site.pages | where:'type','standard' | sort:"name" %}
 
+Standards
+=========
+
 {% for standard in standards %}
 {{ standard.title }}
 --------------------
