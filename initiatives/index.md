@@ -12,7 +12,7 @@ Community Initiatives
 {{ initiative.title }}
 --------------------
 Sub-categories
-: {% for subcategory in initiative.sub_categories %} {{ subcategory }}  {% endfor %}
+: {% for subcategory in initiative.sub_categories %}{{ subcategory }}\ {% endfor %}
 
 Started
 : {{ initiative.started }}
