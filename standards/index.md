@@ -6,8 +6,8 @@ type: index
 {% assign standards = site.pages | where:'type','standard' | sort:"name" %}
 
 {% for standard in standards %}
-  {{ standard.title }}
-  --------------------
+  # {{ standard.title }}
+  
 
     Sub-categories
     {% for subcategory in standard.sub_categories %}
