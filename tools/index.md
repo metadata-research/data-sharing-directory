@@ -30,5 +30,7 @@ Goals
 Status
 : {{ tool.status}}
 {% endif %}
+
 * * *
+
 {% endfor %}

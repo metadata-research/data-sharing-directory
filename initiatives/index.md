@@ -30,5 +30,7 @@ Goals
 Status
 : {{ initiative.status}}
 {% endif %}
+
 * * *
+
 {% endfor %}
