@@ -1,4 +1,4 @@
-![Data Image](images/front_image.jpg)
+![Data Image](assets/img/front_image.jpg)
 
 ## Rights and Licenses
 
