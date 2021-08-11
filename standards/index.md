@@ -5,6 +5,7 @@ type: index
 ---
 {% assign standards = site.pages | where:'type','standard' | sort:"name" %}
 
+Standards
 =========
 
 {% for standard in standards %}
@@ -28,7 +29,7 @@ Goals
 Status
 : {{ standard.status}}
  
-{% endfor %}Standards
+{% endfor %}
 
 
 Additional Standards with a Rights Entity
