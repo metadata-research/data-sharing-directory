@@ -2,3 +2,19 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+h1 a:link, a:visited {
+  color: #6c7077
+}
+
+h1 a:hover {
+  color:#d90006;
+}
+
+h1, h2 {
+  color:#d90006;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+}
