@@ -1,0 +1,12 @@
+---
+title: Legal Assessment Tool (LAT)
+slug: lat
+sub_categories:
+  - Rights
+started: 2015
+founded_by: Harvard’s Dataverse
+current_url: https://datatags.org/
+goals: Develop a system for tagging datasets in repositories by their varying levels of sensitivity and data sharing restrictions (Sweeney, Crosas, &amp; Bar-Sinai, 2015).
+status:
+type: tool
+---
