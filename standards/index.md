@@ -26,9 +26,11 @@ Current URL
 Goals
 : {{ standard.goals }}
 
+{% if standard.status %}
 Status
 : {{ standard.status}}
- 
+{% endif %}
+
 {% endfor %}
 
 
