@@ -1,0 +1,14 @@
+---
+title: Rights DeclarationMD Extension Schema 
+slug: rights-declaration-schema 
+sub_categories:
+  - Rights
+  - Metadata
+  - Ontologies
+started: 2001
+founded_by: Digital Library Foundation for digital library objects
+current_url: https://www.loc.gov/standards/rights/METSRights.xsd
+goals: Create rights-based extension of METS (Metadata Encoding and Transmission Standard), called the RightsDeclarationMD Extension Schema.
+status:
+type: standard
+---
