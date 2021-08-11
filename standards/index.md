@@ -27,3 +27,6 @@ Status
 : {{ standard.status}}
  
 {% endfor %}
+
+Additional Standards with a Rights Entity
+-----------------------------------------

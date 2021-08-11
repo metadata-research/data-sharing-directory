@@ -1,0 +1,15 @@
+---
+title: W3C Permissions and Obligations Expression
+slug: w3-permissions
+sub_categories:
+  - Rights
+  - Licensing
+  - Metadata
+  - Ontologies
+started: 2016
+founded_by: W3C
+current_url: https://www.w3.org/2016/poe/charter
+goals: Create a new semantic information model for expressing permissions, obligations, rights statements, and content licensing (W3C, 2016). As an initiative that allows for the expression of more complex and business-specific obligations, the initiative seeks to address different business needs than those addressed by Creative Commons.
+status: Working Group Closed
+type: standard
+---
