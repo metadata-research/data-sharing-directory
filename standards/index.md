@@ -30,6 +30,7 @@ Status
 
 Additional Standards with a Rights Entity
 -----------------------------------------
+
 * Categories for the Description of Works of Art (CDWA) Lite
 * CopyrightMD, Extension for use with the Metadata Encoding and Transmission Standard (METS)
 * Dublin Core
