@@ -26,7 +26,9 @@ Current URL
 Goals
 : {{ tool.goals }}
 
+{% if tool.status %}
 Status
 : {{ tool.status}}
- 
+{% endif %}
+
 {% endfor %}

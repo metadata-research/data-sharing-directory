@@ -1,18 +1,18 @@
 ---
-title: Initiatives
+title: Community Initiatives
 slug: index
 type: index
 ---
 {% assign initiatives = site.pages | where:'type','initiative' | sort:"name" %}
 
-Initiatives
+Community Initiatives
 =========
 
 {% for initiative in initiatives %}
 {{ initiative.title }}
 --------------------
 Sub-categories
-: {% for subcategory in initiative.sub_categories %} {{ subcategory }}{% endfor %}
+: {% for subcategory in initiative.sub_categories %} {{ subcategory }}\\{% endfor %}
 
 Started
 : {{ initiative.started }}
@@ -26,7 +26,9 @@ Current URL
 Goals
 : {{ initiative.goals }}
 
+{% if initiative.status %}
 Status
 : {{ initiative.status}}
- 
+{% endif %}
+
 {% endfor %}
