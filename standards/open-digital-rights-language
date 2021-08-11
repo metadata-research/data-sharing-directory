@@ -1,0 +1,14 @@
+---
+title: Open Digital Rights Language 
+slug: ODRL
+sub_categories:
+  - Rights
+  - Metadata
+  - Ontologies
+started: 2001
+founded_by: W3C Permissions and Obligations Expression Working Group
+current_url: https://www.w3.org/community/odrl/
+goals: The development of a Digital Rights Management (DRM) language for the purposes of standardizing the communication of rights information for digital resources (About ODRL, 2018).
+status:
+type: standard
+---

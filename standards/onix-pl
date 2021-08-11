@@ -1,0 +1,14 @@
+---
+title: ONIX-PL
+slug: onix-pl
+sub_categories:
+  - Licensing
+  - Metadata
+  - Ontologies
+started: 2008
+founded_by: Digital Library Federation’s Electronic Resource Management Initiative (ERMI) and EDItEUR/NISO (Editeur, 2009a).
+current_url: http://www.editeur.org/21/ONIX-PL/
+goals: Create an XML structure to document publication licensing agreements, originally developed for publication commerce purposes (Editeur, 2009a).
+status:
+type: standard
+---

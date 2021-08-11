@@ -1,0 +1,14 @@
+---
+title: The Data Use Ontology
+slug: data-use-ontology
+sub_categories:
+  - Rights
+  - Metadata
+  - Ontologies
+started: 2017
+founded_by: Global Alliance for Genomics and Health
+current_url: https://github.com/EBISPOT/DUO
+goals: Develop an ontology to facilitate the sharing of genomics research data (Courtot, 2017).
+status:
+type: standard
+---
