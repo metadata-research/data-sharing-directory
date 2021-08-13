@@ -8,7 +8,7 @@ sub_categories:
 started: 2007
 founded_by: Harvard's Institute for Quantitative Social Science (IQSS)
 current_url:  http://dataverse.org
-goals: Provide an open source web application to share, preserve, cite, explore, and analyze research data.
+goals: facilitate the public distribution of persistent, authorized, and verifiable data, with powerful but easy-to-use technology, even when the data are confidential or proprietary (dataverse.org, Gary King, 2007). 
 status:
 type: initiative
 ---
