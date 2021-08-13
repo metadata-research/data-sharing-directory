@@ -8,5 +8,7 @@ founded_by: The Multi-Regional Clinical Trials Center of Brigham and Women’s H
 current_url: https://vivli.org
 goals: Helps researchers share and access data from clinical trials. Serves as a searchable repository for contributors and users, and provides tools, examples, and guidelines that facilitate the creation of data sharing agreements for sensitive and restricted information.
 status:
-type: tool
----
+type:
+  - tool
+  - initiative
+  ---
