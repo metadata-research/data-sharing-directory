@@ -18,3 +18,11 @@ h1, h2 {
 ul.no-bullets {
   list-style-type: none;
 }
+
+/*fix this*/
+a:link, a:visited{
+  color:blue;
+}
+a:hover{
+  text-decoration: underline;
+}
