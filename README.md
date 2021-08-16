@@ -36,10 +36,7 @@ To add a new entry to one of the following categories: Standards, Tools, or Comm
 code
 ~~~
 
-
-      NOTE – Important! If your text contains any colons, delete, escape, or replace them with another character. Colons in text results in an error in the code and the new file will not be added.
-
-      There are templates for each type in the folder named _templates in the main directory. 
+ 
 
  4. To make changes to an entry, open the file and click the pencil in the upper right-hand area to edit, following formatting 
     instructions as above. It is helpful to turn on ‘Soft wrap’, which appears on the right as soon as you open a file for editing. This allows you to see all the text without scrolling to the right.
