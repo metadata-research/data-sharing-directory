@@ -32,8 +32,8 @@ To add a new entry to one of the following categories: Standards, Tools, or Comm
       Use the following format to create the code for your new entry
    
 ```
-code
 
+code
 ```
 
       NOTE – Important! If your text contains any colons, delete, escape, or replace them with another character. Colons in text results in an error in the code and the new file will not be added.
