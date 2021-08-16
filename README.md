@@ -7,7 +7,8 @@ To add a new entry to one of the following categories: Standards, Tools, or Comm
 1. Sign into your GitHub account.
    If you don't have one, here's how to [set one up](https://github.com/join)
 
-2. Fork the repository using the button at the upper right. The fork button looks like this:
+2. Fork the repository using the button at the upper right. The fork button looks like this:\
+   ![Fork button](assets/img/fork-button.png)
    
    You have just created a copy of the directory for your personal use. The changes you make here will not be final
    until you have submitted them as a pull request, and the pull    request has been merged into the origin repository
@@ -52,13 +53,21 @@ type:
 ---
 ~~~
 
-NOTE – Important! If your text contains any colons, delete or replace them with another character or `&#58`;. Colons in text results in an error in the code and the new file will not be added.   
+NOTE – Important! If your text contains any colons, delete or replace them with another character or `&#58;`. Colons in text results in an error in the code and the new file will not be added.   
 
  4. To make changes to an entry, open the file and click the pencil in the upper right-hand area to edit, following formatting 
     instructions as above. It is helpful to turn on ‘Soft wrap’, which appears on the right as soon as you open a file for editing. This allows you to see all the text without scrolling to the right.
    
-   More than one sub-category or type can be included for any entry, i.e. a resource may be both a standard and a tool. If you include more than one, enter each on a separate line, indented with a preceding ‘–‘. If there is only one, enter it on the same line after the colon. See Figure 3, where the Creative Commons example has two sub-categories and a single type.
+    More than one sub-category or type can be included for any entry, i.e. a resource may be both a standard and a tool. If you include more than one, enter each on a separate line, indented with a preceding ‘–‘. If there is only one, enter it on the same line after the colon.
    
-   Types are standards, tools, and community initiatives.
+    Types are standards, tools, and community initiatives.
 
-   Sub-category options include Rights, Licensing, Metadata, Ontologies, and Informational Resources [this may be changed or expanded]
+    Sub-category options include Rights, Licensing, Metadata, Ontologies, and Informational Resources [this may be changed or expanded].
+
+5. After you have created your new file or made any edits, scroll down and click the green ‘commit changes’
+   button. This saves your work.
+
+6. Press the pull request button when it appears:\
+   ![Button to create pull request](assets/img/pull-request.png)
+
+   You will then see the discussion page we will use when reviewing your request. That’s it, you’re entry has been submitted. If you don’t have or don’t want a GitHub account, feel free to submit your entry to [mrc.metadata@drexel.edu](mailto:mrc.metadata@drexel.edu.) 
