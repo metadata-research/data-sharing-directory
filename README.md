@@ -29,7 +29,7 @@ To add a new entry to one of the following categories: Standards, Tools, or Comm
 
    YAML is a data serialization language. If you are unfamiliar with YAML syntax, refer to the files in the _templates directory official YAML sample file.
    
-   Use the following format to create the code for your new entry
+   Use the following format to create the code for your new entry:
    
 ~~~
 ---
@@ -50,10 +50,9 @@ type:
   - tool
   - initiative
 ---
-
 ~~~
 
-   
+NOTE – Important! If your text contains any colons, delete or replace them with another character or `&#58`;. Colons in text results in an error in the code and the new file will not be added.   
 
  4. To make changes to an entry, open the file and click the pencil in the upper right-hand area to edit, following formatting 
     instructions as above. It is helpful to turn on ‘Soft wrap’, which appears on the right as soon as you open a file for editing. This allows you to see all the text without scrolling to the right.
