@@ -31,21 +31,22 @@ To add a new entry to one of the following categories: Standards, Tools, or Comm
    
       Use the following format to create the code for your new entry
    
-         ---
-         title: Vivli - Center for Global Clinical Research Data
-         sub_categories:
-         - Licensing
-         - Informational resources
-         started: 2013
-         founded_by: The Multi-Regional Clinical Trials Center of Brigham and Women’s Hospital and Harvard (MRCT Center)
-         current_url: https://vivli.org
-         goals: Help researchers share and access data from clinical trials. Serve as a searchable repository for contributors and users, and provides tools, examples, and guidelines that facilitate the creation of data sharing agreements for sensitive and restricted information.
-         status:
-         type:
-         - tool
-         - initiative
-         ---
-
+ ```
+    ---
+    title: Vivli - Center for Global Clinical Research Data
+    sub_categories:
+      - Licensing
+      - Informational resources
+    started: 2013
+    founded_by: The Multi-Regional Clinical Trials Center of Brigham and Women’s Hospital and Harvard (MRCT Center)
+    current_url: https://vivli.org
+    goals: Help researchers share and access data from clinical trials. Serve as a searchable repository for contributors and users, and provides tools, examples, and guidelines that facilitate the creation of data sharing agreements for sensitive and restricted information.
+    status:
+    type:
+      - tool
+      - initiative
+    ---
+```
 
       NOTE – Important! If your text contains any colons, delete, escape, or replace them with another character. Colons in text results in an error in the code and the new file will not be added.
 
