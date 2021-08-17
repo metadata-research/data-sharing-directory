@@ -7,4 +7,4 @@ The Data Sharing Directory is an open list of data sharing standards, tools, and
 The [Metadata Research Center](https://cci.drexel.edu/mrc/) (MRC) located at the College of Computing  
 & Informatics (CCI), Drexel University, leads and innovates metadata solutions for pressing information/data-oriented challenges. Metadata, semantics, and ontologies are vital for effectively and efficiently using and manipulating data. The MRC is committed to advancing research in these interconnected domains, formalizing metadata-driven methods to support the [FAIR principles](https://www.go-fair.org/fair-principles/), and enabling data use across all sectors.
 
-Project leaders and contributors: Christopher Rauch (doctoral student, lead on Github work), Mica Greene (MSI grad. student), Deborah Garwood (doctoral candidate), and Sam Grabus (doctoral candidate). Faculty advisors: Jane Greenberg and Mat Kelly.
+Project leaders and contributors: Christopher Rauch (doctoral student, lead on GitHub work), Mica Greene (MSI grad. student), Deborah Garwood (doctoral candidate), and Sam Grabus (doctoral candidate). Faculty advisors: Jane Greenberg and Mat Kelly.
