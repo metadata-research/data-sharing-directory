@@ -1,7 +1,16 @@
 ---
 ---
+a:link, a:visited{
+  color:rgb(46, 46, 214);
+}
+a:hover{
+  text-decoration: underline;
+}
 
 @import "jekyll-theme-minimal";
+
+
+/*fix this*/
 
 h1 a:link, a:visited {
   color: #6c7077
