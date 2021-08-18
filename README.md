@@ -27,9 +27,7 @@ To add a new entry to one of the following categories: Standards, Tools, or Comm
    Give your file a descriptive name, using lowercase letters and hyphens instead of spaces, and give it a .yml file extension. (Ex: creative-commons.yml).
 
    YAML is a data serialization language. If you are unfamiliar with YAML syntax, refer to the files in the _templates directory [official YAML sample file](http://www.yaml.org/start.html)
-
-   YAML is a data serialization language. If you are unfamiliar with YAML syntax, refer to the files in the _templates directory official YAML sample file.
-   
+ 
    Use the following format to create the code for your new entry:
    
 ~~~
